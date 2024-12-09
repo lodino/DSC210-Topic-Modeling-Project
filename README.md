@@ -10,5 +10,6 @@ We advise the grader to run all the experiments on Google Colab with the basic C
 Our experiments build upon the following implementations:
 - [https://www.kaggle.com/code/sumantindurkhya/topic-modeling-on-20-newsgroup-data-lsa-and-lda](https://www.kaggle.com/code/sumantindurkhya/topic-modeling-on-20-newsgroup-data-lsa-and-lda).
 - [https://github.com/silviatti/topic-model-diversity/blob/master/diversity_metrics.py](https://github.com/silviatti/topic-model-diversity/blob/master/diversity_metrics.py).
+- [https://github.com/yashskhandelwal/latent_semantic_analysis](https://github.com/yashskhandelwal/latent_semantic_analysis).
 
 We acknowledge and thank the authors for making their work publicly available.
