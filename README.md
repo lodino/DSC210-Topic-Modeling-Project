@@ -10,7 +10,7 @@ Codebase for Topic Modeling Project (DSC210 24 Fall)
 
 **Experiments for AGNews**: [https://colab.research.google.com/drive/1LfOxd-RU9siWoN3biaAvLOjfWcgr_vow?usp=sharing](https://colab.research.google.com/drive/1aUIYthRoOkT_3fqb-n0x9AHw7x6T86_5?usp=sharing).
 
-We advise the grader to run all the experiments on **Google Colab** with the basic CPU setting (no need for GPU). Running all the cells within the two notebooks following the sequence of codes in the two notebooks will give all the results we obtained. Note that experiments on AGNews, especially LDA and UMAP visualization, might take around 10-20 minutes each.
+**Instruction for Results Reproduction**: We advise the grader to run all the experiments on **Google Colab** with the basic CPU setting (no need for GPU). Running all the cells within the two notebooks following the sequence of codes in the two notebooks will give all the results we obtained. Note that experiments on AGNews, especially LDA and UMAP visualization, might take around 10-20 minutes each.
 
 Our experiments build upon the following implementations:
 - [https://www.kaggle.com/code/sumantindurkhya/topic-modeling-on-20-newsgroup-data-lsa-and-lda](https://www.kaggle.com/code/sumantindurkhya/topic-modeling-on-20-newsgroup-data-lsa-and-lda).
